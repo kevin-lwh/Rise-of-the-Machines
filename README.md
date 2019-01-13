@@ -6,12 +6,13 @@ A simple 1 VS 1 shooter game made by python
 * Tkinter
 
 ## Instructions
-
+Simply open "Rise of the Machines.py" in python and hit run.
 
 ## Controls
 
 
 ## Screenshot
+
 
 ## Built With
 * Python
