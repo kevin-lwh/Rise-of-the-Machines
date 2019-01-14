@@ -16,7 +16,7 @@ The controls of the game are very simple. Each player has 5 buttons to control t
 ## Rules
 There are enemy machines scattered throughout the map. Every time you kill an enemy with your weapon will give you 10 points, and each contact with the enemy will cost you 1 life. The player model will also flash to indicate that you have touched the enemy. Besides enemies, there are collective items such as coins and ammo crate in the game. Each coin will give you 5 points and each ammo crate will give you 5 additional ammos. If you think that’s not enough challenge, there are also rocks in the game, rocks are acting as obstacles to your bullets (your bullets will not shoot through them) and to the player movement itself (the rock will push you to the side if you touch them).
 
-## Screenshot
+## Screenshots
 
 <p align="center">
 <img src="images/Screenshot_1.png" width=48% />
